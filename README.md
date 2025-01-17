@@ -1,7 +1,8 @@
 # Dopaminergic-signaling-to-ventral-striatum-neurons-initiates-sniffing-behavior
 Johnson, N. L., Cotelo-Larrea, A., Stetzik, L. A., Akkaya, U. M., Zhang, Z., Gadziola, M. A., ... & Wesson, D. W. (2025). Dopaminergic signaling to ventral striatum neurons initiates sniffing behavior. Nature Communications, 16(1), 336.
 
-![Overview Image](Fig. 5 State-dependence of a unique DA-evoked sniffing pattern.PNG)
+![Overview Image](Dopaminergic-signaling-to-ventral-striatum-neurons-initiates-sniffing-behavior
+/Fig. 5 State-dependence of a unique DA-evoked sniffing pattern.PNG)
 
 **Overview:**
 This experiment follows a process for classifying data using the k-NN algorithm with Dynamic Time Warping (KnnDtw) and compares results across different sample sizes and dataset balancing conditions.
