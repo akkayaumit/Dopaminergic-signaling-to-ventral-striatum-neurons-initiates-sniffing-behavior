@@ -44,12 +44,4 @@ A graphical comparison of F1 scores for different scenarios: 20, 40, 60 samples,
 **Citation:**
 
 Johnson, N. L., Cotelo-Larrea, A., Stetzik, L. A., Akkaya, U. M., Zhang, Z., Gadziola, M. A., ... & Wesson, D. W. (2025). Dopaminergic signaling to ventral striatum neurons initiates sniffing behavior. Nature Communications, 16(1), 336.
-
-
-### 4. **Add a Citation Badge**
-You can also include a badge linking to the source (e.g., via Zenodo, arXiv, or DOI):
-
-```markdown
-[![DOI](https://zenodo.org/badge/DOI/10.xxxx.svg)](https://doi.org/10.xxxx)
-
-
+[Journal of AI Research]([https://doi.org/10.xxxx](https://www.nature.com/articles/s41467-024-55644-6))
