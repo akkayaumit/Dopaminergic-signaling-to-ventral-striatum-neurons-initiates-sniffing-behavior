@@ -32,9 +32,9 @@ Use all samples from the original dataset without selecting specific sample size
 Run cell with comment "# Train Test Split and Normalization for all samples (63_65_63_70)"
 Split, normalize, and classify with KnnDtw as per instructions.
 
-6)Balanced Dataset with SMOTE:
+6) Balanced Dataset with SMOTE:
 Apply SMOTE to balance the dataset to 70 samples per class.
 Split, normalize, and classify with KnnDtw on this balanced dataset.
 
-7)Compare Results:
+7) Compare Results:
 A graphical comparison of F1 scores for different scenarios: 20, 40, 60 samples, full original dataset, and SMOTE-balanced dataset.
