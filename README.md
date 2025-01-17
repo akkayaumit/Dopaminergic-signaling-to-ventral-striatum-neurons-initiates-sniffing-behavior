@@ -1,8 +1,4 @@
 # Dopaminergic-signaling-to-ventral-striatum-neurons-initiates-sniffing-behavior
-Johnson, N. L., Cotelo-Larrea, A., Stetzik, L. A., Akkaya, U. M., Zhang, Z., Gadziola, M. A., ... & Wesson, D. W. (2025). Dopaminergic signaling to ventral striatum neurons initiates sniffing behavior. Nature Communications, 16(1), 336.
-
-![Overview Image](Figure_5.PNG)
-
 **Overview:**
 This experiment follows a process for classifying data using the k-NN algorithm with Dynamic Time Warping (KnnDtw) and compares results across different sample sizes and dataset balancing conditions.
 
@@ -11,6 +7,8 @@ Data: Total of 261 samples across four classes—OptoSniff (63), OdorSniff (65),
 Objective: Use KnnDtw to classify these samples, testing with 20, 40, and 60 samples per class. Results will be compared with F1 scores under different conditions:
 Original dataset (63_65_63_70 samples).
 Dataset balanced to 70 samples per class using SMOTE.
+
+![Overview Image](Figure_5.PNG)
 
 **Steps to Reproduce:**
 1) Open Notebook in Google Colab:
