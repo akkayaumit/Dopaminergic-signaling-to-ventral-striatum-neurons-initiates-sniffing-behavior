@@ -4,13 +4,13 @@ Dopaminergic signaling to ventral striatum neurons initiates sniffing behavior
 **Overview:**
 This experiment follows a process for classifying data using the k-NN algorithm with Dynamic Time Warping (KnnDtw) and compares results across different sample sizes and dataset balancing conditions.
 
-Experiment Setup:
+**Experiment Setup:**
 Data: Total of 261 samples across four classes—OptoSniff (63), OdorSniff (65), BuzzSniff (63), and SpontaneousSniff (70).
 Objective: Use KnnDtw to classify these samples, testing with 20, 40, and 60 samples per class. Results will be compared with F1 scores under different conditions:
 Original dataset (63_65_63_70 samples).
 Dataset balanced to 70 samples per class using SMOTE.
 
-Steps to Reproduce:
+**Steps to Reproduce:**
 1) Open Notebook in Google Colab:
 Open KNN_DTW_for_Classification.ipynb.
 Run Initial Setup Cells.
