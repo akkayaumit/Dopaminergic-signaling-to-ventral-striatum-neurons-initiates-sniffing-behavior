@@ -1,7 +1,7 @@
 # Dopaminergic-signaling-to-ventral-striatum-neurons-initiates-sniffing-behavior
 Dopaminergic signaling to ventral striatum neurons initiates sniffing behavior
 
-Overview:
+**Overview:**
 This experiment follows a process for classifying data using the k-NN algorithm with Dynamic Time Warping (KnnDtw) and compares results across different sample sizes and dataset balancing conditions.
 
 Experiment Setup:
@@ -14,7 +14,7 @@ Steps to Reproduce:
 1) Open Notebook in Google Colab:
 Open KNN_DTW_for_Classification.ipynb.
 Run Initial Setup Cells.
-Execute the first four cells to load necessary libraries and the DTW k-NN algorithm from the GitHub repository (https://github.com/markdregan/K-Nearest-Neighbors-with-Dynamic-Time-Warping).
+Execute the first four cells to load necessary libraries and the DTW k-NN algorithm from the GitHub repository.
 
 2) Dataset Loading:
 Update the dataset path in the cell to point to your specific Google Drive location of "SniffingData.xlsx".
